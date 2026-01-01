@@ -2,7 +2,7 @@
 
 
 variable app_name {
-  default = "bootmicro"
+  default = "luckymicro"
 }
 
 variable location {
